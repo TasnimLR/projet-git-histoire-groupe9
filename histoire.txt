@@ -53,4 +53,12 @@ Des années plus tard, Lira devient la gardienne du nouveau sanctuaire.
 Le médaillon, brisé, repose sous un verre scellé.
 Un enfant curieux s’en approche et le touche.
 Le verre se fissure doucement.
+<<<<<<< HEAD
 😈 [Villain] Le Seigneur Argal observe Kael de loin, planifiant sa chute.
+=======
+
+👉 [Héros] Kael découvre une nouvelle force en lui, symbole d’espoir.
+😈 [Villain] Le Seigneur Argal observe Kael de loin, planifiant sa chute.
+🧙 [Helper] Lira prépare un ancien rituel pour guider Kael dans sa quête.
+
+>>>>>>> 0d2c0be (Ajout du chapitre 1 complet (avec rôles fusionnés))
