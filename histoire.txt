@@ -61,4 +61,8 @@ Le verre se fissure doucement.
 😈 [Villain] Le Seigneur Argal observe Kael de loin, planifiant sa chute.
 🧙 [Helper] Lira prépare un ancien rituel pour guider Kael dans sa quête.
 
+<<<<<<< HEAD
 >>>>>>> 0d2c0be (Ajout du chapitre 1 complet (avec rôles fusionnés))
+=======
+[Villain] Le Seigneur Argal prépare sa vengeance dans l’ombre.
+>>>>>>> 2141add (Ajout de la contribution du Villain)
