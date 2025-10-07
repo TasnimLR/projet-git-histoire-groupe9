@@ -54,7 +54,7 @@ Le médaillon, brisé, repose sous un verre scellé.
 Un enfant curieux s’en approche et le touche.
 Le verre se fissure doucement.
 
-👉 [Héros] Kael découvre une nouvelle force en lui, symbole d’espoir.
-😈 [Villain] Le Seigneur Argal observe Kael de loin, planifiant sa chute.
-🧙 [Helper] Lira prépare un ancien rituel pour guider Kael dans sa quête.
+[Héros] Kael découvre une nouvelle force en lui, symbole d’espoir.
+[Villain] Le Seigneur Argal observe Kael de loin, planifiant sa chute.
+[Helper] Lira prépare un ancien rituel pour guider Kael dans sa quête.
 
